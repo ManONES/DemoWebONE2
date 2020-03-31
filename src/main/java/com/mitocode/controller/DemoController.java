@@ -35,7 +35,7 @@ public class DemoController {
     		
     		for (int ii = 0; ii < 10; ii++) {
     	        while (true) {
-    			    iii =getRandomNumberInRange(1, 2000);
+    			    iii =getRandomNumberInRange(1, 20000);
     	            if (iii==1974) { break;}
     	        }
     		}    		
