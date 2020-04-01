@@ -39,8 +39,9 @@ public class DemoController {
     	            if (iii==1974) { break;}
     	        }
     		}    		
-            if (i==Integer.valueOf(name) + 100) { break;}
+            if (i==Integer.valueOf(name) + 50) { break;}
         }
+        
 		return "greeting";
 	}
 	
